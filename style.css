@@ -7,7 +7,6 @@ body{
 }
 @media (max-width: 640px) {
 	body {
-		background: red;
 	}
 
 }
@@ -55,7 +54,7 @@ body{
 	text-decoration: none;
 	text-align: center;
 	background-color: #696969;
-	color: #FF4040;
+	color:#fff;
 	display: flex;
 	flex-wrap: wrap;
 	flex-direction: column;
@@ -73,7 +72,6 @@ body{
 	visibility: visible;
 }
 .menu a:hover{
-	background-color: #E0FFFF;
 	color: #000000;
 }
 .menu ul ul li{
